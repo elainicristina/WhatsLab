@@ -1,9 +1,9 @@
 import WhatsLab from "./componets/WhatsLab"
+import React from "react"
 
 export default function App() {
   return (
    <div className="App">
-
     <WhatsLab/>
    </div>
   );
